@@ -1,0 +1,10 @@
+Click==7.0
+Flask
+Flask-SQLAlchemy=2.4.1
+gunicorn
+itsdangerous
+Jinja2
+MarkupSafe
+SQLAlchemy
+Werkzeug
+requests
